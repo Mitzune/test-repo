@@ -17,3 +17,9 @@ Open file feature created
         "nested.md"
     ]
 }
+
+# Custom commands 
+- [ ] Refactor command executor
+- [ ] Update command 
+- [ ] Delete command
+- [ ] Create command / Folder / File
