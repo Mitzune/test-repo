@@ -20,6 +20,6 @@ Open file feature created
 
 # Custom commands 
 - [ ] Refactor command executor
-- [ ] Update command 
-- [ ] Delete command
-- [ ] Create command / Folder / File
+- [ ] Update name command functionality
+- [ ] Delete command functionality 
+- [ ] Create command / Folder / File functionality
