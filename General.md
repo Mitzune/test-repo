@@ -19,7 +19,15 @@ Open file feature created
 }
 
 # Custom commands 
-- [ ] Refactor command executor
-- [ ] Update name command functionality
+- [X] Fix order folder first before files
+- [X] Refactor command executor
+- [X] Update name command functionality
 - [ ] Delete command functionality 
-- [ ] Create command / Folder / File functionality
+- [ ] Create command
+    - [X] Create note
+    - [ ] Create folder
+- [ ] Refresh command functionality 
+    - [ ] Refresh command on every CUD action
+        - [ ] Create action
+        - [ ] Update action 
+        - [ ] Delete action 
