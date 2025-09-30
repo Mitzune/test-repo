@@ -19,10 +19,13 @@ Open file feature created
 }
 
 # Custom commands
+- [X] Adjusted Logger commits
 - [ ] Big refactor for /utils/system 
     - [ ] Remove vscode and all validation must be done outside
-    - [X] Update utils
-    - [X] Delete utils
+        - [X] Update utils
+        - [X] Delete utils
+        - [ ] Create utils
+        - [ ] Exec utils
 - [X] Fix order folder first before files
 - [X] Refactor command executor
 - [X] Update name command functionality
