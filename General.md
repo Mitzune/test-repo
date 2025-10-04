@@ -24,8 +24,10 @@ Open file feature created
     - [ ] Remove vscode and all validation must be done outside
         - [X] Update utils
         - [X] Delete utils
-        - [ ] Create utils
+        - [X] Create utils
         - [ ] Exec utils
+    - [ ] Sync refactor/adjustments
+        - [ ] Info modal for possible commit label
 - [X] Fix order folder first before files
 - [X] Refactor command executor
 - [X] Update name command functionality
