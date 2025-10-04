@@ -36,11 +36,9 @@ Open file feature created
 - [X] Delete command functionality 
     - [X] Add confirm
     - [X] Update action to Delete/Delete file
-- [ ] Create command
+- [X] Create command
     - [X] Create note
-    - [ ] Create folder
+    - [X] Create folder
 - [ ] Refresh command functionality 
     - [ ] Refresh command on every CUD action
-        - [ ] Create action
-        - [ ] Update action 
-        - [ ] Delete action 
+    - [ ] Enhance refresh on events
