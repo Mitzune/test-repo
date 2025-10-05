@@ -45,3 +45,4 @@ Open file feature created
     - [ ] Enhance refresh on events
     - [ ] Add refresh on dir change
     - [ ] Add refresh on sync
+
