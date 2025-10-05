@@ -20,15 +20,15 @@ Open file feature created
 
 # Custom commands
 - [X] Adjusted Logger commits
-- [ ] Big refactor for /utils/system 
-    - [ ] Remove vscode and all validation must be done outside
+- [X] Big refactor for /utils/system 
+    - [X] Remove vscode and all validation must be done outside
         - [X] Update utils
         - [X] Delete utils
         - [X] Create utils
-        - [ ] Exec utils
-    - [ ] Sync refactor/adjustments
+        - [X] Exec utils
+    - [X] Sync refactor/adjustments
         - [X] Info modal for possible commit label
-        - [ ] No changes done do not ask for commit message
+        - [X] No changes done do not ask for commit message
 - [X] Fix order folder first before files
 - [X] Refactor command executor
 - [X] Update name command functionality
