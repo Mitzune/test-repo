@@ -26,7 +26,7 @@ Open file feature created
         - [X] Delete utils
         - [X] Create utils
         - [ ] Exec utils
-    - [ ] Sync refactor/adjustments
+    - [X] Sync refactor/adjustments
         - [ ] Info modal for possible commit label
 - [X] Fix order folder first before files
 - [X] Refactor command executor
@@ -42,3 +42,5 @@ Open file feature created
 - [ ] Refresh command functionality 
     - [ ] Refresh command on every CUD action
     - [ ] Enhance refresh on events
+    - [ ] Add refresh on dir change
+    - [ ] Add refresh on sync
