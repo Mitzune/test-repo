@@ -26,8 +26,9 @@ Open file feature created
         - [X] Delete utils
         - [X] Create utils
         - [ ] Exec utils
-    - [X] Sync refactor/adjustments
-        - [ ] Info modal for possible commit label
+    - [ ] Sync refactor/adjustments
+        - [X] Info modal for possible commit label
+        - [ ] No changes done do not ask for commit message
 - [X] Fix order folder first before files
 - [X] Refactor command executor
 - [X] Update name command functionality
